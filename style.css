@@ -206,3 +206,16 @@ main p{
     text-transform: uppercase;
     border-radius: 50px;
 }
+
+
+
+
+
+
+@media screen  and (max-width: 400px){
+    .contact{
+        background: red;
+    }
+    
+}
+
